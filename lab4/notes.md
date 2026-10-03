@@ -14,4 +14,15 @@ Answer 7: Git prints the name of the files which are now being tracked. It chang
 
 Answer 8: The first seven characters depict the unique reference of the repository. To access the files inside this repository, we can just look through typing a command involving these seven characters.
 
-Answer 9:  
+Answer 9: The first step checks all the files if they are being committed or being tracked. The second step starts tracking lab4/notes.md. The third step permenantly saves lab4/notes.md to Add lab 4 notes. The fourth step shows the files which have been committed.
+
+Answer 10: Because hosting platforms like GitHub automatically look of README.md to consider it as the front page documentation for the repository.
+
+Answer 11: Rather than asking for an acutal password, it completes browsing authentication.
+
+Answer 12: The README.md file is showing on the front page because it is the main documentation entry point.
+
+Answer 13: No, push only copies local commits  to the remote repositories on GitHub
+
+Answer 14: In a private repository, only me and the people I invite can access the repository. The repository not existing at GitHub at all means that the code is only there on the computer and no copy of it.
+ 
