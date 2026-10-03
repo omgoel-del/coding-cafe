@@ -25,4 +25,5 @@ Answer 12: The README.md file is showing on the front page because it is the mai
 Answer 13: No, push only copies local commits  to the remote repositories on GitHub
 
 Answer 14: In a private repository, only me and the people I invite can access the repository. The repository not existing at GitHub at all means that the code is only there on the computer and no copy of it.
- 
+
+Lab 4 complete ----------------------------------------------------------------------------------------------------
