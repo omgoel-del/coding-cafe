@@ -10,4 +10,8 @@ Answer 5: It should be committed because everyone working in the repository will
 
 Answer 6: README.md was moved from committed to getting tracked. git add command to this folder made it being tracked from committed.
 
-Answer 7:  
+Answer 7: Git prints the name of the files which are now being tracked. It changed 6 files from committed to tracking.
+
+Answer 8: The first seven characters depict the unique reference of the repository. To access the files inside this repository, we can just look through typing a command involving these seven characters.
+
+Answer 9:  
